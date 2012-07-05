@@ -19,7 +19,7 @@
     </parent>
 
     <modelVersion>4.0.0</modelVersion>
-    <artifactId>org.eclipse.egit.github.core</artifactId>
+    <artifactId>github-api</artifactId>
     <packaging>eclipse-plugin</packaging>
     <name>Eclipse EGit GitHub API Core</name>
 </project>
